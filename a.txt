@@ -1,2 +1,4 @@
 1st line of a.txt
 2nd line of a.txt - kijun-ssu
+3rd line of a.txt - test1
+4th line of a.txt - test1
